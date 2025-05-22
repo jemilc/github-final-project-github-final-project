@@ -1,9 +1,3 @@
-Okay, I've updated the contribution guide to use the specific repository URL you provided: `https://github.com/jemilc/github-final-project-github-final-project.git`.
-
-Here's the awesome contribution guide with the repository link integrated:
-
------
-
 # 🤝 Contributing to GitHub Final Project
 
 We are absolutely thrilled that you're considering contributing to GitHub Final Project\! Your input, no matter how big or small, is incredibly valuable and helps make this project better for everyone.
